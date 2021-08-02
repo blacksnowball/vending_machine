@@ -1,0 +1,386 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> 
+Hello #anonymous!
+Main Menu (anonymous customer)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> Cancelling transaction. Returning to main menu.
+
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in DRINKS category
+[1] Mineral Water ($2.00) (7 available)
+[2] Sprite ($2.00) (7 available)
+[3] Coca cola ($2.00) (7 available)
+[4] Pepsi ($2.00) (7 available)
+[5] Juice ($2.00) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Cancelling transaction. Returning to main menu.
+
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in DRINKS category
+[1] Mineral Water ($2.00) (7 available)
+[2] Sprite ($2.00) (7 available)
+[3] Coca cola ($2.00) (7 available)
+[4] Pepsi ($2.00) (7 available)
+[5] Juice ($2.00) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Selected: Mineral Water (7 available)
+Specify quantity to buy: Cancelling transaction. Returning to main menu.
+
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in DRINKS category
+[1] Mineral Water ($2.00) (7 available)
+[2] Sprite ($2.00) (7 available)
+[3] Coca cola ($2.00) (7 available)
+[4] Pepsi ($2.00) (7 available)
+[5] Juice ($2.00) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Selected: Mineral Water (7 available)
+Specify quantity to buy: 
+This is your order so far:
+Mineral Water x 1 = $2.00
+Total cost is: $2.00
+
+Would you like to go to checkout?
+Select one of the following options:
+[1] Yes, take me to checkout
+[2] Not yet, keep browsing items
+[3] Not yet, remove some items from the order
+[4] No, cancel my order
+
+>> Cancelling transaction. Returning to main menu.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in DRINKS category
+[1] Mineral Water ($2.00) (7 available)
+[2] Sprite ($2.00) (7 available)
+[3] Coca cola ($2.00) (7 available)
+[4] Pepsi ($2.00) (7 available)
+[5] Juice ($2.00) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Selected: Mineral Water (7 available)
+Specify quantity to buy: 
+This is your order so far:
+Mineral Water x 1 = $2.00
+Total cost is: $2.00
+
+Would you like to go to checkout?
+Select one of the following options:
+[1] Yes, take me to checkout
+[2] Not yet, keep browsing items
+[3] Not yet, remove some items from the order
+[4] No, cancel my order
+
+>> 
+This is your order so far:
+[1] Mineral Water x 1 = $2.00
+Total cost is: $2.00
+
+Select product (by number) to remove:
+>> Cancelling transaction. Returning to main menu.
+
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in DRINKS category
+[1] Mineral Water ($2.00) (7 available)
+[2] Sprite ($2.00) (7 available)
+[3] Coca cola ($2.00) (7 available)
+[4] Pepsi ($2.00) (7 available)
+[5] Juice ($2.00) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Selected: Mineral Water (7 available)
+Specify quantity to buy: 
+This is your order so far:
+Mineral Water x 1 = $2.00
+Total cost is: $2.00
+
+Would you like to go to checkout?
+Select one of the following options:
+[1] Yes, take me to checkout
+[2] Not yet, keep browsing items
+[3] Not yet, remove some items from the order
+[4] No, cancel my order
+
+>> 
+Checkout
+This is your order:
+Mineral Water x 1 = $2.00
+Total cost is: $2.00
+
+How would you like to pay for your order?
+[1] Cash
+[2] Credit
+[3] Cancel my order
+
+Select an option:
+>> Returning to main menu.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Invalid input.
+Shutting down the VENDING MACHINE.

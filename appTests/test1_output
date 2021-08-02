@@ -1,0 +1,539 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Details do not match the credentials in the system.
+Would you like to try again?
+>> 
+Login menu
+Enter username and password (case sensitive)
+Username: Continuing as anonymous user...
+
+Hello #anonymous!
+Main Menu (anonymous customer)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+MENU COMMANDS
+help: show this list of commands
+exit (or quit): shut down the machine
+login
+logout
+
+CUSTOMER COMMANDS
+create account
+list products: preview of the vending machine contents
+make purchase
+
+
+Main Menu (anonymous user)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Creating Account
+Enter new username (letters and numbers only)
+Username: Password: Account created successfully.
+You have been logged in.
+
+Main Menu (Username: bill1234) (CUSTOMER)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+You are currently logged into another account.
+Would you like to logout first (y/n)?
+>> Returning to main menu.
+
+Main Menu (Username: bill1234) (CUSTOMER)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You are currently logged into another account.
+Would you like to logout first (y/n)?
+>> Logging out...
+
+
+Creating Account
+Enter new username (letters and numbers only)
+Username: Username already exists.
+Returning to main menu.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Creating Account
+Enter new username (letters and numbers only)
+Username: Invalid username (contains spaces or non-alphanumeric characters).
+Returning to menu.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Details do not match the credentials in the system.
+Would you like to try again?
+>> 
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Main Menu (Username: bill1234) (CUSTOMER)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> Logging out...
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You are not logged in.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Details do not match the credentials in the system.
+Would you like to try again?
+>> 
+Invalid response.
+Continuing as anonymous user...
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> Adding card
+New card number (5 digits): Name of new card owner: Card successfully added.
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> 
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>>        Name | Card Number
+---------------------------
+    Charles | 40691
+     Sergio | 42689
+      Kasey | 60146
+    Vincent | 59141
+       Ruth | 55134
+     Donald | 23858
+  Christine | 35717
+     Helene | 72500
+      Brian | 44756
+      Wanda | 97523
+     Elaine | 48685
+      Blake | 14138
+     Debbie | 92090
+      Felix | 31093
+       John | 90669
+      Deena | 95953
+       Joan | 77852
+    Kenneth | 60632
+     Audrey | 45925
+  Francisco | 27402
+Christopher | 28376
+     Manuel | 53477
+       Mark | 66192
+    William | 67707
+    Rebecca | 54981
+     Arthur | 41696
+     Robert | 85202
+Christopher | 87286
+      Edwin | 23842
+     Stacey | 26436
+    Michael | 24531
+      Janet | 69655
+     Jeremy | 74061
+   Patricia | 30690
+      Julie | 56907
+      Linda | 38409
+     Evelyn | 64820
+      Liana | 75183
+     Simone | 89037
+    Jeffrey | 98708
+  Elizabeth | 96667
+       Andy | 82050
+       Chad | 34572
+      James | 33527
+       Ruby | 78073
+      Naomi | 43114
+      James | 20565
+    Leonard | 72238
+ Marguerite | 30831
+     Maxine | 34402
+       Bill | 23451
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> Adding card
+New card number (5 digits): Card number already exists.
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> Adding card
+New card number (5 digits): Invalid card number. (must be 5 digits)
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> Removing card
+Card number to remove: Card number not found in database. No cards were removed.
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> Removing card
+Card number to remove: Removed Bill's card (23451)
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> 
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>>        Name | Card Number
+---------------------------
+    Charles | 40691
+     Sergio | 42689
+      Kasey | 60146
+    Vincent | 59141
+       Ruth | 55134
+     Donald | 23858
+  Christine | 35717
+     Helene | 72500
+      Brian | 44756
+      Wanda | 97523
+     Elaine | 48685
+      Blake | 14138
+     Debbie | 92090
+      Felix | 31093
+       John | 90669
+      Deena | 95953
+       Joan | 77852
+    Kenneth | 60632
+     Audrey | 45925
+  Francisco | 27402
+Christopher | 28376
+     Manuel | 53477
+       Mark | 66192
+    William | 67707
+    Rebecca | 54981
+     Arthur | 41696
+     Robert | 85202
+Christopher | 87286
+      Edwin | 23842
+     Stacey | 26436
+    Michael | 24531
+      Janet | 69655
+     Jeremy | 74061
+   Patricia | 30690
+      Julie | 56907
+      Linda | 38409
+     Evelyn | 64820
+      Liana | 75183
+     Simone | 89037
+    Jeffrey | 98708
+  Elizabeth | 96667
+       Andy | 82050
+       Chad | 34572
+      James | 33527
+       Ruby | 78073
+      Naomi | 43114
+      James | 20565
+    Leonard | 72238
+ Marguerite | 30831
+     Maxine | 34402
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Shutting down the VENDING MACHINE.

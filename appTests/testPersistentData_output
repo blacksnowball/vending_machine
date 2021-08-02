@@ -1,0 +1,16 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Data loaded successfully from memory.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Shutting down the VENDING MACHINE.

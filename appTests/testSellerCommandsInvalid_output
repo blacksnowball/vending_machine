@@ -1,0 +1,217 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Hello owner!
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Item Code, Category, Item Name, Price, Quantity in Stock
+1001, drinks, Mineral Water, $2.00, 7
+1002, drinks, Sprite, $2.00, 7
+1003, drinks, Coca cola, $2.00, 7
+1004, drinks, Pepsi, $2.00, 7
+1005, drinks, Juice, $2.00, 7
+2001, chocolates, Mars, $3.00, 7
+2002, chocolates, M&M, $3.00, 7
+2003, chocolates, Bounty, $3.00, 7
+2004, chocolates, Snickers, $3.00, 7
+3001, chips, Smiths, $2.50, 7
+3002, chips, Pringles, $2.50, 7
+3003, chips, Kettle, $2.50, 7
+3004, chips, Thins, $2.50, 7
+4001, candies, Mentos, $3.50, 7
+4002, candies, Sour Patch, $3.50, 7
+4003, candies, Skittles, $3.50, 7
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Item Code, Category, Item Name, Price, Quantity in Stock
+1001, drinks, Mineral Water, $2.00, 7
+1002, drinks, Sprite, $2.00, 7
+1003, drinks, Coca cola, $2.00, 7
+1004, drinks, Pepsi, $2.00, 7
+1005, drinks, Juice, $2.00, 7
+2001, chocolates, Mars, $3.00, 7
+2002, chocolates, M&M, $3.00, 7
+2003, chocolates, Bounty, $3.00, 7
+2004, chocolates, Snickers, $3.00, 7
+3001, chips, Smiths, $2.50, 7
+3002, chips, Pringles, $2.50, 7
+3003, chips, Kettle, $2.50, 7
+3004, chips, Thins, $2.50, 7
+4001, candies, Mentos, $3.50, 7
+4002, candies, Sour Patch, $3.50, 7
+4003, candies, Skittles, $3.50, 7
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+Invalid input.
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+Invalid input.
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+
+Item Code, Category, Item Name, Price, Quantity in Stock
+1001, drinks, Mineral Water, $2.00, 7
+1002, drinks, Sprite, $2.00, 7
+1003, drinks, Coca cola, $2.00, 7
+1004, drinks, Pepsi, $2.00, 7
+1005, drinks, Juice, $2.00, 7
+2001, chocolates, Mars, $3.00, 7
+2002, chocolates, M&M, $3.00, 7
+2003, chocolates, Bounty, $3.00, 7
+2004, chocolates, Snickers, $3.00, 7
+3001, chips, Smiths, $2.50, 7
+3002, chips, Pringles, $2.50, 7
+3003, chips, Kettle, $2.50, 7
+3004, chips, Thins, $2.50, 7
+4001, candies, Mentos, $3.50, 7
+4002, candies, Sour Patch, $3.50, 7
+4003, candies, Skittles, $3.50, 7
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+Adding product to database
+Code of new product: Category of new product: Category does not exist in the system.
+Returning to function menu.
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+Invalid input.
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+Adding product to database
+Code of new product: Invalid code.
+Returning to function menu.
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+Adding product to database
+Code of new product: Category of new product: Name of new product: Price of new product: $Invalid price (must be payable in coins).
+Returning to function menu.
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+Adding product to database
+Code of new product: Category of new product: Name of new product: Price of new product: $Invalid price.
+Returning to function menu.
+
+Modifying inventory data
+Select function:
+[1] Add new product to database
+[2] Remove product from database
+[3] Modify existing product (item code, name, stock levels, etc.)
+[4] List products in database
+[5] Return to main menu
+
+>> 
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Shutting down the VENDING MACHINE.

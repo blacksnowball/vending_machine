@@ -1,0 +1,570 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Hello owner!
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+MENU COMMANDS
+help: show this list of commands
+exit (or quit): shut down the machine
+login
+logout
+
+CUSTOMER COMMANDS
+create account
+list products: preview of the vending machine contents
+make purchase
+
+SELLER COMMANDS
+show inventory
+modify inventory / modify products
+inventory report
+sales report
+
+CASHIER COMMANDS
+list change
+modify change
+change report
+transactions report
+
+OWNER COMMANDS
+list cards
+modify cards
+add user
+remove user
+list users
+user report
+cancelled order report
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Logging out...
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> Invalid command. (use "HELP" for a list of commands)
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> You don't have permission for this command.
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> Invalid command. (use "HELP" for a list of commands)
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> Shutting down the VENDING MACHINE.

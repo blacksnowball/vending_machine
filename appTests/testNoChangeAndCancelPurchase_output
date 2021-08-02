@@ -1,0 +1,366 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Hello owner!
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Current available change:
+$100 x 5
+$50 x 5
+$20 x 5
+$10 x 5
+$5 x 5
+$2 x 5
+$1 x 5
+50c x 5
+20c x 5
+10c x 5
+5c x 5
+
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+Removing coins/notes (use 'RETURN' to return to function menu)
+Valid coins/notes: 5c, 10c, 20c, 50c, $1, $2, $5, $10, $20, $50, $100
+
+Coin/note to remove: Quantity to remove (5 in machine): Quantity updated successfully.
+
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+Removing coins/notes (use 'RETURN' to return to function menu)
+Valid coins/notes: 5c, 10c, 20c, 50c, $1, $2, $5, $10, $20, $50, $100
+
+Coin/note to remove: Quantity to remove (5 in machine): Quantity exceeds the amount available in the machine.
+
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+Removing coins/notes (use 'RETURN' to return to function menu)
+Valid coins/notes: 5c, 10c, 20c, 50c, $1, $2, $5, $10, $20, $50, $100
+
+Coin/note to remove: Quantity to remove (5 in machine): Quantity updated successfully.
+
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+Removing coins/notes (use 'RETURN' to return to function menu)
+Valid coins/notes: 5c, 10c, 20c, 50c, $1, $2, $5, $10, $20, $50, $100
+
+Coin/note to remove: Quantity to remove (5 in machine): Quantity updated successfully.
+
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Enter new username (letters and numbers only)
+Username: Password: Successfully added account.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+You are currently logged into another account.
+Would you like to logout first (y/n)?
+>> Logging out...
+
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Main Menu (Username: bill2) (CUSTOMER)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> Cancelling transaction. Returning to main menu.
+
+Logging out...
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> Invalid command. (use "HELP" for a list of commands)
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> Invalid command. (use "HELP" for a list of commands)
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> Invalid command. (use "HELP" for a list of commands)
+
+Main Menu (anonymous user)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in DRINKS category
+[1] Mineral Water ($2.00) (7 available)
+[2] Sprite ($2.00) (7 available)
+[3] Coca cola ($2.00) (7 available)
+[4] Pepsi ($2.00) (7 available)
+[5] Juice ($2.00) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Returning to category list.
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in CHIPS category
+[1] Smiths ($2.50) (7 available)
+[2] Pringles ($2.50) (7 available)
+[3] Kettle ($2.50) (7 available)
+[4] Thins ($2.50) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Selected: Smiths (7 available)
+Specify quantity to buy: 
+This is your order so far:
+Smiths x 1 = $2.50
+Total cost is: $2.50
+
+Would you like to go to checkout?
+Select one of the following options:
+[1] Yes, take me to checkout
+[2] Not yet, keep browsing items
+[3] Not yet, remove some items from the order
+[4] No, cancel my order
+
+>> 
+Checkout
+This is your order:
+Smiths x 1 = $2.50
+Total cost is: $2.50
+
+How would you like to pay for your order?
+[1] Cash
+[2] Credit
+[3] Cancel my order
+
+Select an option:
+>> 
+Valid coins/notes:
+5c, 10c, 20c, 50c, $1, $2, $5, $10, $20, $50, $100
+
+Cost remaining: $2.50
+Insert coins/notes
+>> Money received.
+
+The machine has insufficient change. Your money has been refunded.
+Select one of the following options:
+[1] Insert new coins/notes
+[2] Cancel the transaction
+
+>> Valid coins/notes:
+5c, 10c, 20c, 50c, $1, $2, $5, $10, $20, $50, $100
+
+Cost remaining: $2.50
+Insert coins/notes
+>> Money received.
+
+The machine has insufficient change. Your money has been refunded.
+Select one of the following options:
+[1] Insert new coins/notes
+[2] Cancel the transaction
+
+>> Transaction cancelled. Returning to main menu.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Shutting down the VENDING MACHINE.

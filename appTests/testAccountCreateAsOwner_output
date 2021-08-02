@@ -1,0 +1,125 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Hello owner!
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 1. username: #anonymous | role: CUSTOMER
+2. username: owner | role: OWNER
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Username to remove: Username does not exist.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Enter new username (letters and numbers only)
+Username: Password: Successfully added account.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Enter new username (letters and numbers only)
+Username: Username already exists.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Invalid command. (use "HELP" for a list of commands)
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Invalid role. Returning to menu.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Enter new username (letters and numbers only)
+Username: Password: Successfully added account.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Enter new username (letters and numbers only)
+Username: Password: Successfully added account.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Enter new username (letters and numbers only)
+Username: Password: Successfully added account.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+You are currently logged into another account.
+Would you like to logout first (y/n)?
+>> Logging out...
+
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Main Menu (Username: cashman) (CASHIER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+You are currently logged into another account.
+Would you like to logout first (y/n)?
+>> Logging out...
+
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 1. username: #anonymous | role: CUSTOMER
+2. username: owner | role: OWNER
+3. username: cashman | role: CASHIER
+4. username: custman | role: CUSTOMER
+5. username: sellman | role: SELLER
+6. username: owner2 | role: OWNER
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Username to remove: Account removed.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Username to remove: You are currently logged into this account. Aborting.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Username to remove: Account removed.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Username to remove: Account removed.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Username to remove: Account removed.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 1. username: #anonymous | role: CUSTOMER
+2. username: owner | role: OWNER
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Shutting down the VENDING MACHINE.

@@ -1,0 +1,133 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Hello owner!
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Enter new username (letters and numbers only)
+Username: Password: Successfully added account.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+You are currently logged into another account.
+Would you like to logout first (y/n)?
+>> Logging out...
+
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Main Menu (Username: cashman) (CASHIER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Current available change:
+$100 x 5
+$50 x 5
+$20 x 5
+$10 x 5
+$5 x 5
+$2 x 5
+$1 x 5
+50c x 5
+20c x 5
+10c x 5
+5c x 5
+
+Main Menu (Username: cashman) (CASHIER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Current available change:
+$100 x 5
+$50 x 5
+$20 x 5
+$10 x 5
+$5 x 5
+$2 x 5
+$1 x 5
+50c x 5
+20c x 5
+10c x 5
+5c x 5
+
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+Adding coins/notes (use 'RETURN' to return to function menu)
+Valid coins/notes: 5c, 10c, 20c, 50c, $1, $2, $5, $10, $20, $50, $100
+
+Coin/note to add: Quantity to add (5 in machine): Quantity updated successfully.
+
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+Invalid input.
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+Removing coins/notes (use 'RETURN' to return to function menu)
+Valid coins/notes: 5c, 10c, 20c, 50c, $1, $2, $5, $10, $20, $50, $100
+
+Coin/note to remove: Quantity to remove (5 in machine): Quantity updated successfully.
+
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+Invalid input.
+Select function:
+[1] Add coins/notes
+[2] Remove coins/notes
+[3] Return to main menu
+
+>> 
+
+Main Menu (Username: cashman) (CASHIER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Current available change:
+$100 x 5
+$50 x 5
+$20 x 3
+$10 x 9
+$5 x 5
+$2 x 5
+$1 x 5
+50c x 5
+20c x 5
+10c x 5
+5c x 5
+
+Main Menu (Username: cashman) (CASHIER)
+Enter command (use "HELP" for a full list of commands):
+>> Shutting down the VENDING MACHINE.

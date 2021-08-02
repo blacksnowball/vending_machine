@@ -1,0 +1,50 @@
+1
+username
+password
+y
+#anonymous
+help
+create account
+bill1234
+password
+login
+n
+create account
+y
+bill1234
+create account
+bill1234_
+login
+FAKEACCOUNT
+fakepassword
+y
+bill1234
+password
+logout
+logout
+login
+NOTACOMMAND
+list cards
+modify cards
+login
+owner
+
+modify cards
+1
+23451
+Bill
+5
+list cards
+modify cards
+1
+23451
+1
+234516
+2
+23452
+2
+23451
+5
+list cards
+quit
+

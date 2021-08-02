@@ -1,0 +1,258 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Hello owner!
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> New user type: Enter new username (letters and numbers only)
+Username: Password: Successfully added account.
+
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+You are currently logged into another account.
+Would you like to logout first (y/n)?
+>> Logging out...
+
+Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Main Menu (Username: bill) (CUSTOMER)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 7 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 7 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in CHOCOLATES category
+[1] Mars ($3.00) (7 available)
+[2] M&M ($3.00) (7 available)
+[3] Bounty ($3.00) (7 available)
+[4] Snickers ($3.00) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Selected: M&M (7 available)
+Specify quantity to buy: 
+This is your order so far:
+M&M x 5 = $15.00
+Total cost is: $15.00
+
+Would you like to go to checkout?
+Select one of the following options:
+[1] Yes, take me to checkout
+[2] Not yet, keep browsing items
+[3] Not yet, remove some items from the order
+[4] No, cancel my order
+
+>> 
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in DRINKS category
+[1] Mineral Water ($2.00) (7 available)
+[2] Sprite ($2.00) (7 available)
+[3] Coca cola ($2.00) (7 available)
+[4] Pepsi ($2.00) (7 available)
+[5] Juice ($2.00) (7 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Selected: Juice (7 available)
+Specify quantity to buy: 
+This is your order so far:
+M&M x 5 = $15.00
+Juice x 3 = $6.00
+Total cost is: $21.00
+
+Would you like to go to checkout?
+Select one of the following options:
+[1] Yes, take me to checkout
+[2] Not yet, keep browsing items
+[3] Not yet, remove some items from the order
+[4] No, cancel my order
+
+>> 
+Checkout
+This is your order:
+M&M x 5 = $15.00
+Juice x 3 = $6.00
+Total cost is: $21.00
+
+How would you like to pay for your order?
+[1] Cash
+[2] Credit
+[3] Cancel my order
+
+Select an option:
+>> 
+Cardholder name: Card number: Payment processed.
+
+Would you like to save your card details (y/n)?
+>> Card saved successfully.
+
+Thank you for shopping at the VENDING MACHINE.
+You will be automatically logged out.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+Here are your most recent purchases: 
+2020-11-19 17:55:47: 
+	5 x M&M
+	3 x Juice
+---------------------
+
+Main Menu (Username: bill) (CUSTOMER)
+
+Here is a list of products available in the machine:
+DRINKS
+Mineral Water | $2.00 | 7 available
+       Sprite | $2.00 | 7 available
+    Coca cola | $2.00 | 7 available
+        Pepsi | $2.00 | 7 available
+        Juice | $2.00 | 4 available
+
+CHOCOLATES
+         Mars | $3.00 | 7 available
+          M&M | $3.00 | 2 available
+       Bounty | $3.00 | 7 available
+     Snickers | $3.00 | 7 available
+
+CHIPS
+       Smiths | $2.50 | 7 available
+     Pringles | $2.50 | 7 available
+       Kettle | $2.50 | 7 available
+        Thins | $2.50 | 7 available
+
+CANDIES
+       Mentos | $3.50 | 7 available
+   Sour Patch | $3.50 | 7 available
+     Skittles | $3.50 | 7 available
+
+Enter command (use "HELP" for a full list of commands):
+>> 
+Buying items
+(use 'CANCEL' to cancel transaction at any time)
+(use 'CHECKOUT' to go to checkout at any time)
+
+Category list:
+[1] drinks
+[2] chocolates
+[3] chips
+[4] candies
+
+Select category number to buy from:
+>> 
+Products in DRINKS category
+[1] Mineral Water ($2.00) (7 available)
+[2] Sprite ($2.00) (7 available)
+[3] Coca cola ($2.00) (7 available)
+[4] Pepsi ($2.00) (7 available)
+[5] Juice ($2.00) (4 available)
+
+Select product number (or use 'RETURN' to go back to the category list)
+>> Selected: Sprite (7 available)
+Specify quantity to buy: 
+This is your order so far:
+Sprite x 3 = $6.00
+Total cost is: $6.00
+
+Would you like to go to checkout?
+Select one of the following options:
+[1] Yes, take me to checkout
+[2] Not yet, keep browsing items
+[3] Not yet, remove some items from the order
+[4] No, cancel my order
+
+>> 
+Checkout
+This is your order:
+Sprite x 3 = $6.00
+Total cost is: $6.00
+
+How would you like to pay for your order?
+[1] Cash
+[2] Credit
+[3] Cancel my order
+
+Select an option:
+>> 
+Payment will proceed with saved credit card details.
+Payment processed successfully.
+Thank you for shopping at the VENDING MACHINE.
+You will be automatically logged out.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Shutting down the VENDING MACHINE.

@@ -1,0 +1,311 @@
+#############################
+#                           #
+#   $$ VENDING MACHINE $$   #
+#                           #
+#############################
+
+Could not load data. Initialising new data...
+Data initialised successfully.
+
+Main menu
+Select an option:
+[1] Login as existing user
+[2] Create new account as customer
+[3] Continue as anonymous user
+[4] Close the vending machine
+
+>> Login menu
+Enter username and password (case sensitive)
+Username: Password: 
+Login successful.
+
+Hello owner!
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> 
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>>        Name | Card Number
+---------------------------
+    Charles | 40691
+     Sergio | 42689
+      Kasey | 60146
+    Vincent | 59141
+       Ruth | 55134
+     Donald | 23858
+  Christine | 35717
+     Helene | 72500
+      Brian | 44756
+      Wanda | 97523
+     Elaine | 48685
+      Blake | 14138
+     Debbie | 92090
+      Felix | 31093
+       John | 90669
+      Deena | 95953
+       Joan | 77852
+    Kenneth | 60632
+     Audrey | 45925
+  Francisco | 27402
+Christopher | 28376
+     Manuel | 53477
+       Mark | 66192
+    William | 67707
+    Rebecca | 54981
+     Arthur | 41696
+     Robert | 85202
+Christopher | 87286
+      Edwin | 23842
+     Stacey | 26436
+    Michael | 24531
+      Janet | 69655
+     Jeremy | 74061
+   Patricia | 30690
+      Julie | 56907
+      Linda | 38409
+     Evelyn | 64820
+      Liana | 75183
+     Simone | 89037
+    Jeffrey | 98708
+  Elizabeth | 96667
+       Andy | 82050
+       Chad | 34572
+      James | 33527
+       Ruby | 78073
+      Naomi | 43114
+      James | 20565
+    Leonard | 72238
+ Marguerite | 30831
+     Maxine | 34402
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> Adding card
+New card number (5 digits): Name of new card owner: Card successfully added.
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>>        Name | Card Number
+---------------------------
+    Charles | 40691
+     Sergio | 42689
+      Kasey | 60146
+    Vincent | 59141
+       Ruth | 55134
+     Donald | 23858
+  Christine | 35717
+     Helene | 72500
+      Brian | 44756
+      Wanda | 97523
+     Elaine | 48685
+      Blake | 14138
+     Debbie | 92090
+      Felix | 31093
+       John | 90669
+      Deena | 95953
+       Joan | 77852
+    Kenneth | 60632
+     Audrey | 45925
+  Francisco | 27402
+Christopher | 28376
+     Manuel | 53477
+       Mark | 66192
+    William | 67707
+    Rebecca | 54981
+     Arthur | 41696
+     Robert | 85202
+Christopher | 87286
+      Edwin | 23842
+     Stacey | 26436
+    Michael | 24531
+      Janet | 69655
+     Jeremy | 74061
+   Patricia | 30690
+      Julie | 56907
+      Linda | 38409
+     Evelyn | 64820
+      Liana | 75183
+     Simone | 89037
+    Jeffrey | 98708
+  Elizabeth | 96667
+       Andy | 82050
+       Chad | 34572
+      James | 33527
+       Ruby | 78073
+      Naomi | 43114
+      James | 20565
+    Leonard | 72238
+ Marguerite | 30831
+     Maxine | 34402
+        Jay | 34403
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> Modifying card
+Select a card number: 
+Modifying Jay's card (34403)
+New owner (leave blank to keep unchanged): Cardholder name updated.
+New card number (5 digits) (leave blank to keep unchanged): Card number updated.
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>>        Name | Card Number
+---------------------------
+    Charles | 40691
+     Sergio | 42689
+      Kasey | 60146
+    Vincent | 59141
+       Ruth | 55134
+     Donald | 23858
+  Christine | 35717
+     Helene | 72500
+      Brian | 44756
+      Wanda | 97523
+     Elaine | 48685
+      Blake | 14138
+     Debbie | 92090
+      Felix | 31093
+       John | 90669
+      Deena | 95953
+       Joan | 77852
+    Kenneth | 60632
+     Audrey | 45925
+  Francisco | 27402
+Christopher | 28376
+     Manuel | 53477
+       Mark | 66192
+    William | 67707
+    Rebecca | 54981
+     Arthur | 41696
+     Robert | 85202
+Christopher | 87286
+      Edwin | 23842
+     Stacey | 26436
+    Michael | 24531
+      Janet | 69655
+     Jeremy | 74061
+   Patricia | 30690
+      Julie | 56907
+      Linda | 38409
+     Evelyn | 64820
+      Liana | 75183
+     Simone | 89037
+    Jeffrey | 98708
+  Elizabeth | 96667
+       Andy | 82050
+       Chad | 34572
+      James | 33527
+       Ruby | 78073
+      Naomi | 43114
+      James | 20565
+    Leonard | 72238
+ Marguerite | 30831
+     Maxine | 34402
+        Bob | 35555
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> Removing card
+Card number to remove: Removed Bob's card (35555)
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>>        Name | Card Number
+---------------------------
+    Charles | 40691
+     Sergio | 42689
+      Kasey | 60146
+    Vincent | 59141
+       Ruth | 55134
+     Donald | 23858
+  Christine | 35717
+     Helene | 72500
+      Brian | 44756
+      Wanda | 97523
+     Elaine | 48685
+      Blake | 14138
+     Debbie | 92090
+      Felix | 31093
+       John | 90669
+      Deena | 95953
+       Joan | 77852
+    Kenneth | 60632
+     Audrey | 45925
+  Francisco | 27402
+Christopher | 28376
+     Manuel | 53477
+       Mark | 66192
+    William | 67707
+    Rebecca | 54981
+     Arthur | 41696
+     Robert | 85202
+Christopher | 87286
+      Edwin | 23842
+     Stacey | 26436
+    Michael | 24531
+      Janet | 69655
+     Jeremy | 74061
+   Patricia | 30690
+      Julie | 56907
+      Linda | 38409
+     Evelyn | 64820
+      Liana | 75183
+     Simone | 89037
+    Jeffrey | 98708
+  Elizabeth | 96667
+       Andy | 82050
+       Chad | 34572
+      James | 33527
+       Ruby | 78073
+      Naomi | 43114
+      James | 20565
+    Leonard | 72238
+ Marguerite | 30831
+     Maxine | 34402
+
+Select function:
+[1] Add card
+[2] Remove card
+[3] Modify existing card
+[4] List all cards
+[5] Return to main menu
+
+>> 
+Main Menu (Username: owner) (OWNER)
+Enter command (use "HELP" for a full list of commands):
+>> Shutting down the VENDING MACHINE.

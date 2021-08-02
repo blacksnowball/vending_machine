@@ -1,4 +1,4 @@
-# Vending Machine Application
+# Vending Machine Simulator Application
 
 Vending Application is a command line interface program that simulates a vending machine allowing customers to purchase products, as well as specialised roles to make changes. 
 
